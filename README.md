@@ -2,7 +2,7 @@ Github Linki: https://github.com/perezexe/flutter-apple-katalog/tree/main
 
 # Apple Device Katalog & Shopping App
 
-## 📝 Proje Açıklaması
+##  Proje Açıklaması
 Bu uygulama, Flutter kullanılarak geliştirilmiş modern bir mobil e-ticaret katalog uygulamasıdır. Uygulama, canlı bir PHP API (`wantapi.com`) üzerinden ürün verilerini (isim, fiyat, görsel, açıklama) anlık olarak çeker. 
 
 **Temel Özellikler:**
@@ -12,20 +12,20 @@ Bu uygulama, Flutter kullanılarak geliştirilmiş modern bir mobil e-ticaret ka
 *   **Sepet Yönetimi:** Ürünler sepete eklenebilir, adetleri güncellenebilir ve toplam tutar otomatik hesaplanır.
 *   **Ödeme Simülasyonu:** Sepetteki ürünler için bir ödeme ekranı ve satın alma süreci simüle edilmiştir.
 
-## 🚀 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 *   **Framework:** Flutter (Material 3)
 *   **Dil:** Dart
 *   **Veri Yönetimi:** JSON / REST API
 *   **Paketler:** `http`, `dart:convert`
 *   **Mimari:** State Management için `ChangeNotifier` ve `ValueNotifier` yaklaşımları kullanılmıştır.
 
-## 📊 Kullanılan Flutter Sürümü
+##  Kullanılan Flutter Sürümü
 *   **Flutter:** 3.22.0 veya üzeri (Stabil Kanal)
 *   **Dart:** 3.4.0 veya üzeri
 
 > *Not: Bilgisayarınızdaki tam sürümü öğrenmek için terminale `flutter --version` yazabilirsiniz.*
 
-## 🛠 Çalıştırma Adımları
+##  Çalıştırma Adımları
 
 Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
