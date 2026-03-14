@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "AirPods Pro",
+    "price": 249.0,
+    "description": "Aktif gürültü engelleme ve adaptif EQ ile mükemmel ses deneyimi.",
+    "specs": ["Bluetooth 5.0", "Adaptive EQ", "MagSafe desteği"],
+    "image": "https://picsum.photos/seed/airpodspro/500/500"
+  },
+  {
+    "id": 2,
+    "title": "MacBook Pro 14",
+    "price": 1999.0,
+    "description": "M3 çip, Liquid Retina XDR ekran ve uzun pil ömrü.",
+    "specs": ["14 inç Liquid Retina XDR", "16 GB RAM", "512 GB SSD"],
+    "image": "https://picsum.photos/seed/macbookpro14/500/500"
+  },
+  {
+    "id": 3,
+    "title": "iPhone 15 Pro",
+    "price": 999.0,
+    "description": "Titanyum gövde, A17 Pro çip ve gelişmiş kamera sistemleri.",
+    "specs": ["A17 Pro", "48 MP kamera", "USB-C"],
+    "image": "https://picsum.photos/seed/iphone15pro/500/500"
+  },
+  {
+    "id": 4,
+    "title": "Apple Watch Ultra",
+    "price": 799.0,
+    "description": "Dayanıklı yapısı ve uzun pil ömrü ile macera için ideal.",
+    "specs": ["Derinlik sensörü", "36 saat pil", "IP6X"],
+    "image": "https://picsum.photos/seed/applewatchultra/500/500"
+  },
+  {
+    "id": 5,
+    "title": "iPad Pro",
+    "price": 1099.0,
+    "description": "M2 çip ve ProMotion desteğiyle güçlü performans.",
+    "specs": ["M2 çip", "12.9 inç ekran", "ProMotion"],
+    "image": "https://picsum.photos/seed/ipadpro/500/500"
+  },
+  {
+    "id": 6,
+    "title": "HomePod Mini",
+    "price": 99.0,
+    "description": "Küçük boyut, büyük ses performansı.",
+    "specs": ["360 derece ses", "Siri desteği", "U1 çip"],
+    "image": "https://picsum.photos/seed/homepodmini/500/500"
+  },
+  {
+    "id": 7,
+    "title": "Apple TV 4K",
+    "price": 129.0,
+    "description": "Sinematik içerik için 4K HDR desteği.",
+    "specs": ["4K HDR", "Dolby Vision", "A15 çip"],
+    "image": "https://picsum.photos/seed/appletv4k/500/500"
+  },
+  {
+    "id": 8,
+    "title": "Magic Mouse",
+    "price": 79.0,
+    "description": "Çok dokunmatik yüzeyli ergonomik mouse.",
+    "specs": ["Multi-touch yüzey", "Bluetooth", "Şarj edilebilir"],
+    "image": "https://picsum.photos/seed/magicmouse/500/500"
+  },
+  {
+    "id": 9,
+    "title": "Magic Keyboard",
+    "price": 99.0,
+    "description": "Konforlu yazma deneyimi ve Touch ID desteği.",
+    "specs": ["Geri aydınlatmalı tuşlar", "Touch ID", "Bluetooth"],
+    "image": "https://picsum.photos/seed/magickeyboard/500/500"
+  },
+  {
+    "id": 10,
+    "title": "Studio Display",
+    "price": 1599.0,
+    "description": "5K Retina ekran ile net ve canlı görüntü.",
+    "specs": ["5K Retina", "P3 geniş renk", "A13 çip"],
+    "image": "https://picsum.photos/seed/studiodisplay/500/500"
+  },
+  {
+    "id": 11,
+    "title": "Mac Studio",
+    "price": 1999.0,
+    "description": "Yüksek performanslı masaüstü için kompakt çözüm.",
+    "specs": ["M2 Max", "128 GB RAM", "8 TB SSD"],
+    "image": "https://picsum.photos/seed/macstudio/500/500"
+  },
+  {
+    "id": 12,
+    "title": "AirTag",
+    "price": 29.0,
+    "description": "Eşyalarınızı kolayca bulun.",
+    "specs": ["U1 çip", "Suya dayanıklı", "Find My ağı"],
+    "image": "https://picsum.photos/seed/airtag/500/500"
+  },
+  {
+    "id": 13,
+    "title": "MagSafe Charger",
+    "price": 39.0,
+    "description": "Hızlı ve doğru hizalanan kablosuz şarj.",
+    "specs": ["15W şarj", "Qi standart", "Manyetik"],
+    "image": "https://picsum.photos/seed/magsafecharger/500/500"
+  },
+  {
+    "id": 14,
+    "title": "Beats Solo3",
+    "price": 199.0,
+    "description": "Uzun pil ömrü ve net ses deneyimi.",
+    "specs": ["Kablosuz", "Apple W1 çip", "40 saat pil"],
+    "image": "https://picsum.photos/seed/beatssolo3/500/500"
+  },
+  {
+    "id": 15,
+    "title": "USB-C Adapter",
+    "price": 19.0,
+    "description": "Çok yönlü bağlantı çözümü.",
+    "specs": ["USB-C to USB-A", "Alüminyum gövde", "Hızlı transfer"],
+    "image": "https://picsum.photos/seed/usbcadapter/500/500"
+  },
+  {
+    "id": 16,
+    "title": "iPhone Case",
+    "price": 49.0,
+    "description": "MagSafe uyumlu silikon kılıf.",
+    "specs": ["Darbe emici", "Yumuşak iç yüzey", "MagSafe uyumlu"],
+    "image": "https://picsum.photos/seed/iphonecase/500/500"
+  },
+  {
+    "id": 17,
+    "title": "iMac 24",
+    "price": 1299.0,
+    "description": "Tümleşik tasarım ve güçlü performans.",
+    "specs": ["24 inç 4.5K", "Apple M1", "Yedi renk"],
+    "image": "https://picsum.photos/seed/imac24/500/500"
+  },
+  {
+    "id": 18,
+    "title": "Mac Mini",
+    "price": 599.0,
+    "description": "Kompakt boyut, güçlü donanım.",
+    "specs": ["M2 çip", "Wi-Fi 6", "Thunderbolt 4"],
+    "image": "https://picsum.photos/seed/macmini/500/500"
+  },
+  {
+    "id": 19,
+    "title": "Pencil (2nd Gen)",
+    "price": 129.0,
+    "description": "Basınca duyarlı ve manyetik olarak yapışır.",
+    "specs": ["Basınca duyarlı", "Manyetik yapışma", "Lightning ile şarj"],
+    "image": "https://picsum.photos/seed/pencil2/500/500"
+  },
+  {
+    "id": 20,
+    "title": "Polishing Cloth",
+    "price": 19.0,
+    "description": "Ekran temizliği için mikrofiber bez.",
+    "specs": ["Çizik bırakmaz", "Yumuşak mikrofiber", "Makinede yıkanabilir"],
+    "image": "https://picsum.photos/seed/polishingcloth/500/500"
+  }
+]
